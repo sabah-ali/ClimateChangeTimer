@@ -1,0 +1,45 @@
+body{
+    background-image: url(./img/matt-palmer-kbTp7dBzHyY-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.countdown{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.heading{
+  text-align: center;
+}
+
+.heading{
+  margin-bottom: 50px;
+}
+
+.time{
+  margin-top: 225px;
+  padding:20px ;
+  border-radius: 15%;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+
+.information{
+  padding-top: 100px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.text {
+  text-align: center;
+  font-size: 18px;
+}
+
+
